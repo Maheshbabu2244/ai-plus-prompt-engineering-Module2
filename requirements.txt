@@ -1,0 +1,9 @@
+streamlit
+PyJWT
+streamlit-javascript
+requests
+pandas
+numpy
+plotly
+scikit-learn
+python-dotenv
